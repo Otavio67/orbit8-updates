@@ -2,7 +2,7 @@
 
 Canal público de distribuição da alpha do Orbit8. O código-fonte do projeto permanece em repositório privado.
 
-[Baixar Orbit8 0.3.5 para Windows x64](https://github.com/Otavio67/orbit8-updates/releases/download/v0.3.5/orbit8-win-x64.zip)
+[Baixar Orbit8 0.3.6 para Windows x64](https://github.com/Otavio67/orbit8-updates/releases/download/v0.3.6/orbit8-win-x64.zip)
 
 Extraia o ZIP inteiro em uma pasta do seu usuário e execute Orbit8.exe. Requer Windows 10/11 x64; o .NET 10 está incluído. O componente WebView2 é verificado/preparado na primeira abertura. Há licenças de terceiros na pasta Licenses.
 
